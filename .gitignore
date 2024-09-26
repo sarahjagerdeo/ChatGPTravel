@@ -1,0 +1,6 @@
+credentials.py
+/myenv
+/project/__pycache__
+/project/ai_credentials.py
+/project/activity_credentials.py
+/project/.venv
